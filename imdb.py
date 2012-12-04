@@ -8,7 +8,7 @@
 #
 # Script to give imdb info on movie/series in DC++ hubchat
 # Currently doesnt handle foreign language characters
-#
+# @TODO IMPROVE EFFICIENCY THROUGH SOME ALGO OR DATA STRUCTURE
 
 import vh, sys, re, string, random,httplib,json
 
